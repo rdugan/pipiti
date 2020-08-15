@@ -4,6 +4,7 @@ Pipiti - AMD PowerPlay Table Editor
 An ncurses text-based user interface (TUI) for viewing/editing AMD GPU powerplay
 tables. Uses amdgpu-pptable library by amezin for backend parsing.
 
+.. image:: Pipiti_screenshot.png
 
 Installation
 ============
