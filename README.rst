@@ -11,8 +11,7 @@ Installation
 Dependencies:
 
 - python (>=3.6)
-- amdgpu-pptable (>=0.9.2)
-- npyscreen (develop branch from https://github.com/rdugan/npyscreen.git)
+- pip3 (for standard installation)
 
 
 Using pip/github::
@@ -55,7 +54,9 @@ The following is a list of the most useful keybindings:
     +----------------+------------------------------------------------------------------+
     | ``p``          | previous search match                                            |
     +----------------+------------------------------------------------------------------+
-    | ``RET``, ``e`` | edit value                                                       |
+    | ``RET``, ``e`` | edit selected value                                              |
+    +----------------+------------------------------------------------------------------+
+    | ``^u``         | clear value (while editing)                                      |
     +----------------+------------------------------------------------------------------+
     | ``^X``         | menu                                                             |
     +----------------+------------------------------------------------------------------+
