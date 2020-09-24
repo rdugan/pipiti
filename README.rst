@@ -12,7 +12,7 @@ Installation
 Dependencies:
 
 - python (>=3.6)
-- pip3 (for standard installation)
+- pip3 (>=19.0, for standard installation)
 
 
 Using pip/github::
